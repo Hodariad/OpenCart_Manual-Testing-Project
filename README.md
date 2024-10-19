@@ -1,4 +1,4 @@
-# OpenCart Manual Testing Project: 
+# OpenCart Manual Testing Project
 https://demo.opencart.com/en-gb?route=common/home
 
 ## Overview
