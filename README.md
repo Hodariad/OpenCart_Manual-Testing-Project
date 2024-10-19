@@ -1,4 +1,5 @@
-# OpenCart Manual Testing Project: https://demo.opencart.com/en-gb?route=common/home
+# OpenCart Manual Testing Project: 
+https://demo.opencart.com/en-gb?route=common/home
 
 ## Overview
 This project involves manual testing of core features in an OpenCart-based e-commerce platform. The objective is to verify that all functionalities perform as expected across different devices and browsers.
